@@ -4,6 +4,7 @@
 }
 
 body {
+    min-width: 1280px;
     background-size: cover;
     border: 10px solid #00008B;
     margin: 20px;
@@ -45,14 +46,13 @@ img {
   }
 
 .info {
-    
+    text-align: top;
     padding-left: 26px;
     display: inline-block;
     font-size: 20.5px;	
 	color: black;
 	font-family: sans-serif;
 }
-
 
 .fa{
     padding-left: 1%;
